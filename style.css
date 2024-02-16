@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+div {
+    margin-top: 20px;
+    border: 1px solid;
+    width: 300px;
+    padding: 10px;
+}
